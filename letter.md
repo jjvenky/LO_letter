@@ -7,20 +7,20 @@ date: 21 March 2017
 # Letter outline
 
 1. Overview of preprints
-    a. What is a preprint? 
-    b. Major repositories
-    c. Are there different kinds? (e.g. biorXiv vs Biogeosciences Discussions)
+    1. What is a preprint? 
+    2. Major repositories
+    3. Are there different kinds? (e.g. biorXiv vs Biogeosciences Discussions)
 2. Adoption of preprints in other fields
-    a. Physics/astronomy: a million preprints in arXiv
-    b. Biology
+    1. Physics/astronomy: a million preprints in arXiv
+    2. Biology/ecology
         1. ref to biorXiv
         2. NIH: adoption of preprints in proposals - see [this](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-17-050.html) recent NIH announcement
 2. Benefits of preprints
-    a. To scientific community
-    b. To ASLO (are there any?)
+    1. To scientific community
+    2. To ASLO (are there any?)
 4. Recommendations: 
-    a. L&O should actively encourage authors to post preprints prior to L&O submission
-    b. Any policy specifics? "No manuscripts with a DOI" seems to be the current policy - what is a better policy?
+    1. L&O should actively encourage authors to post preprints prior to L&O submission
+    2. Any policy specifics? "No manuscripts with a DOI" seems to be the current policy - what is a better policy?
 
 # Signatures
 
