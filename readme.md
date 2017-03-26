@@ -1,6 +1,8 @@
+This repo contains a draft of a letter from members of the limnology and oceanography community to Bob Howarth, Editor-in-Chief of Limnology and Oceanography, arguing in favor of L&O accepting (and encouraging) manuscripts that have previously been posted as preprints.
+
 # Background
 
-Bob Howarth, EiC of L&O, hosted a forum at the 2017 Aquatic Sciences meeting about how to publishb in L&O. He mentioned that there is an advisory board that is preparing recommendations for modernization at L&O, and it also became apparent that:
+Bob Howarth hosted a forum at the 2017 Aquatic Sciences meeting about how to publishb in L&O. He mentioned that there is an advisory board that is preparing recommendations for modernization at L&O, and it also became apparent that:
 
 - L&O does not have a formal preprint policy
 - He's not very aware of preprints, but he's open to learning more about them
@@ -11,9 +13,10 @@ Bob Howarth, EiC of L&O, hosted a forum at the 2017 Aquatic Sciences meeting abo
 
 The purposes of this letter would be to:
 
-1. Inform Dr. Howarth (& the L&O board & advisory group) about the advantages of preprints
-1. Explain the process of preprints - what counts as a preprint, what doesn't
-1. Specifically address what to do about Biogeosciences Discussions & similar journals (are there any others quite like it?)
+1. Inform Dr. Howarth (& the L&O advisory group) about the advantages of preprints
+2. Explain the process of preprints - what counts as a preprint, what doesn't
+3. Provide context, including how other fields are using preprints
+3. Specifically address what to do about Biogeosciences Discussions & similar journals (are there any others quite like it?)
 
 # Format
 
