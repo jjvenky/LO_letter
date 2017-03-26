@@ -17,7 +17,7 @@ date: 21 March 2017
         2. NIH: adoption of preprints in proposals - see [this](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-17-050.html) recent NIH announcement
 2. Benefits of preprints
     1. To scientific community
-    2. To ASLO (are there any?)
+    2. To ASLO (are there any? not be offside with other societies and not have different policies for L&O and L&OL)
 4. Recommendations: 
     1. L&O should actively encourage authors to post preprints prior to L&O submission
     2. Any policy specifics? "No manuscripts with a DOI" seems to be the current policy - what is a better policy?

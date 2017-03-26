@@ -16,7 +16,7 @@ The purposes of this letter would be to:
 1. Inform Dr. Howarth (& the L&O advisory group) about the advantages of preprints
 2. Explain the process of preprints - what counts as a preprint, what doesn't
 3. Provide context, including how other fields are using preprints
-3. Specifically address what to do about Biogeosciences Discussions & similar journals (are there any others quite like it?)
+3. Specifically address what to do about Biogeosciences Discussions & similar journals (all the European Geophysical Union journals use the 'Discussions' model where submissions are given a doi and are open to public peeer-review in a multi-stage model, see (http://publications.copernicus.org/) . Also see page 18 of the [ASLO Bulletin 19(1)](http://aslo.org/bulletin/10_v19_i1.pdf#page=18) )
 
 # Format
 
